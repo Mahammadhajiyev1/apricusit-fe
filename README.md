@@ -6,7 +6,7 @@ This application fetches data from NodeJS backend.
 
 ![](https://github.com/Mahammadhajiyev1/apricusit-fe/blob/main/public/1.png)
 
-![](https://github.com/Mahammadhajiyev1/apricusit-fe/blob/main/public/1.png)
+![](https://github.com/Mahammadhajiyev1/apricusit-fe/blob/main/public/2.png)
 
 ## Installation and Setup Instructions
 
